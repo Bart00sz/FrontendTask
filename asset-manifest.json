@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-Test/static/css/main.8b19c42c.css",
+    "main.js": "/Frontend-Test/static/js/main.fbc900be.js",
+    "index.html": "/Frontend-Test/index.html",
+    "main.8b19c42c.css.map": "/Frontend-Test/static/css/main.8b19c42c.css.map",
+    "main.fbc900be.js.map": "/Frontend-Test/static/js/main.fbc900be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b19c42c.css",
+    "static/js/main.fbc900be.js"
+  ]
+}
